@@ -4,7 +4,6 @@
 
 
 ### :gear: Get started
------------------------
 
 First of all you have to download 'Termux' application on you mobile phone. 
 After downloading it first give it the permission to access your internal storage by typing the following command in Termux app.
