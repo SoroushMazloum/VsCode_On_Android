@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Starting, this may take a few minutes"
+termux-setup-storage
+pkg install proot-distro
+proot-distro install ubuntu
+proot-distro login ubuntu
+apt update
+curl -fsSL https://code-server.dev/install.sh | bash
+code-server --auth none
+echo "Finished, if every thing has gone well, you will be able to see Visual Studio Code screen when you search http://127.0.0.1:8080 in your browser."
