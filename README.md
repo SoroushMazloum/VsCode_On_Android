@@ -63,6 +63,7 @@ Run it:
 ./Installer
 ```
 
+### From now, you can start Visual Studio Code by typing `code-server --auth none` in termux. 
 
 # :heavy_exclamation_mark: Issues
 If you have any problem, please send an Email to mazloomsoroush@gmail.com 
