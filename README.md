@@ -42,6 +42,7 @@ Finally open your browser and in the search bar, search for `http://127.0.0.1:80
 In some countries your need to turn on you VPN to install proot-distro or update your packages.
 
 ##  :heavy_check_mark: Installing Visual Studio Code using shell script
+If you don't want to install Visual Studio Code manually, you can use the 'Installer' script. 
 First install git:
 ```
 apt install git
