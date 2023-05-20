@@ -1,6 +1,6 @@
 # VsCode_On_Android
-##If you are a coder, you may like to use Visual Studio Code on android.
-##In this way you can write codes in many languages like C++, C, C#, Python, Java, JavaScript... on your mobile phone.
+## If you are a coder, you may like to use Visual Studio Code on android.
+## In this way you can write codes in many languages like C++, C, C#, Python, Java, JavaScript... on your mobile phone.
 -----------------------
 
 
