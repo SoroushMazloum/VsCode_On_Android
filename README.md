@@ -46,7 +46,7 @@ First install git:
 ```
 apt install git
 ```
-Clone the shell script:
+Clone the repository:
 ```
 git clone https://github.com/SoroushGit/VsCode_On_Android
 ```
